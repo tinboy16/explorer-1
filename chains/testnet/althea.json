@@ -1,0 +1,23 @@
+{
+    "chain_name": "althea-testnet",
+    "api": [
+      "https://api-t.althea.nodestake.top"
+    ],
+    "rpc": [
+      "https://rpc-t.althea.nodestake.top"
+    ],
+    "sdk_version": "v0.46.8",
+    "coin_type": "118",
+    "addr_prefix": "althea-testnet",
+    "min_tx_fee": "",
+    "logo": "https://explorer.nodestake.top/logos/althea.jpg",
+    "assets": [
+      {
+        "base": "aalthea",
+        "symbol": "ALTHEA",
+        "exponent": "18",
+        "logo": "https://explorer.nodestake.top/logos/althea.jpg"
+      }
+    ]
+  }
+  

@@ -1,0 +1,25 @@
+{
+    "chain_name": "blockx-testnet",
+    "api": [
+      "https://api-t.blockx.nodestake.top"
+    ],
+    "rpc": [
+      "https://testnet8-rpc.blockxnet.com:443",
+      "https://rpc-t.blockx.nodestake.top"
+    ],
+    "sdk_version": "v0.46.8",
+    "coin_type": "60",
+    "addr_prefix": "blockx",
+    "min_tx_fee": "",
+    "logo": "https://ping.blockxnet.com/logos/blockx.svg",
+    "assets": [
+      {
+        "base": "abcx",
+        "symbol": "BCX",
+        "exponent": "18",
+        "coingecko_id": "",
+        "logo": "https://ping.blockxnet.com/logos/blockx.svg"
+      }
+    ]
+  }
+  
