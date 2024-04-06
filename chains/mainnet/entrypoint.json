@@ -1,0 +1,19 @@
+{
+  "chain_name": "entrypoint-pubtest-2",
+  "api": ["https://testnet-rest.entrypoint.zone"],
+  "rpc": ["https://testnet-rpc.entrypoint.zone"],
+  "snapshot_provider": "",
+  "sdk_version": "0.46.7",
+  "coin_type": "118",
+  "min_tx_fee": "3000",
+  "addr_prefix": "entrypoint",
+  "logo": "https://explorer.entrypoint.zone/logos/entrypoint.png",
+  "assets": [
+    {
+      "base": "uentry",
+      "symbol": "ENTRY",
+      "exponent": "6",
+      "logo": "https://explorer.entrypoint.zone/logos/entrypoint.png"
+    }
+  ]
+}

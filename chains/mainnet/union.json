@@ -1,0 +1,23 @@
+{
+    "chain_name": "union-testnet-4",
+    "api": [
+      "https://api-t.union.nodestake.top"
+    ],
+    "rpc": [
+      "https://rpc-t.union.nodestake.top","https://union-testnet-rpc.polkachu.com"
+    ],
+    "sdk_version": "v0.46.8",
+    "coin_type": "118",
+    "addr_prefix": "union-testnet",
+    "min_tx_fee": "",
+    "logo": "https://explorer.nodestake.top/logos/union.jpg",
+    "assets": [
+      {
+        "base": "muno",
+        "symbol": "UNO",
+        "exponent": "6",
+        "logo": "https://explorer.nodestake.top/logos/union.jpg"
+      }
+    ]
+  }
+  

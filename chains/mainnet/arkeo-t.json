@@ -1,0 +1,25 @@
+{
+    "chain_name": "arkeo-testnet",
+    "api": [
+      "https://arkeo.api.t.stavr.tech"
+    ],
+    "rpc": [
+      "https://arkeonetwork-testnet.nodejumper.io",
+      "https://rpc-t.blockx.nodestake.top"
+    ],
+    "sdk_version": "v0.46.13",
+    "coin_type": "118",
+    "addr_prefix": "arkeo",
+    "min_tx_fee": "",
+    "logo": "logos/arkeo.png",
+    "assets": [
+      {
+        "base": "uarkeo",
+        "symbol": "ARKEO",
+        "exponent": "18",
+        "coingecko_id": "",
+        "logo": "logos/arkeo.png"
+      }
+    ]
+  }
+  

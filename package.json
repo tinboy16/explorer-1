@@ -72,7 +72,10 @@
   },
   "description": "<div align=\"center\">",
   "main": "postcss.config.js",
-  "repository": "git+https://github.com/ping-pub/explorer.git",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ping-pub/explorer.git"
+  },
   "author": "ok",
   "license": "ISC",
   "bugs": {

@@ -16,6 +16,10 @@ const i18nLangs: Array<{ label: string; i18nLang: string }> = [
         label: 'Indonesian',
         i18nLang: 'id',
     },
+    {
+        label: 'VietNam',
+        i18nLang: 'vn',
+    },
 ];
 
 let locale = ref(useI18n({ useScope: 'global' }).locale);

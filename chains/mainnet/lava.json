@@ -1,0 +1,19 @@
+{
+  "chain_name": "lava-testnet",
+  "api": ["https://api-t.lava.nodestake.top","https://api-1.lava.nodes.guru"],
+  "rpc": ["https://rpc-t.lava.nodestake.top","https://rpc-1.lava.nodes.guru"],
+  "snapshot_provider": "",
+  "sdk_version": "0.46.7",
+  "coin_type": "118",
+  "min_tx_fee": "3000",
+  "addr_prefix": "Lava",
+  "logo": "/logos/lava.jpg",
+  "assets": [
+    {
+      "base": "uself",
+      "symbol": "SELF",
+      "exponent": "6",
+      "logo": "/logos/lava.jpg"
+    }
+  ]
+}

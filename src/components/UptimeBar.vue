@@ -17,7 +17,7 @@ const bars = computed(() => {
     // console.log(has, props.validato, element)
     uptime.push({
       height: element.height,
-      color: has > -1 ? 'bg-green-500' : 'bg-red-500',
+      color: has > -1 ? 'bg-blue-500' : 'bg-red-500',
     });
     uptime.shift();
   });

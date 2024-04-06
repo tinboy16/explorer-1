@@ -1,0 +1,19 @@
+{
+    "chain_name": "FROOPYLAND_100-1",
+    "alias": "Dymesion",
+    "api": "https://dymension-testnet.api.kjnodes.com", 
+    "rpc": ["https://dymension-testnet.rpc.kjnodes.com", "http://rpc.laozi1.bandchain.org:80"],
+    "snapshot_provider": "",
+    "addr_prefix": "band",
+    "coin_type": "494",
+    "min_tx_fee": "8000",
+    "assets": [{
+        "base": "udym",
+        "symbol": "DYM",
+        "exponent": "6",
+        "coingecko_id": "band-protocol", 
+        "logo": "/logos/dymension.png"
+    }],
+    "logo": "/logos/dymension.png",
+    "sdk_version": "0.45.10"
+}
